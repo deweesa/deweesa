@@ -5,7 +5,7 @@
   - express
   - tailwind.css
 - 💞️ I’m looking to collaborate on anything where I can learn something new
-- 📫 Email me at asadewees@gmail.com
+- 📫 Email me at asadeweese@gmail.com
 
 <!---
 deweesa/deweesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
